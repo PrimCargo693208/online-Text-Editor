@@ -18,4 +18,4 @@ This is a basic text editor for your browser.
 - menu bar
 - ...
 
-> Current Version: 0.1
+> Current Version: 0.2
